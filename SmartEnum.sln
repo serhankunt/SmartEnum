@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartEnum1", "SmartEnum1.csproj", "{231BAAC3-09BF-4F28-8B01-E4280271AF2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartEnumDeneme", "..\SmartEnumDeneme\SmartEnumDeneme.csproj", "{311C7E5A-7EA6-4690-A3CC-CBAE219A51A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{231BAAC3-09BF-4F28-8B01-E4280271AF2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{231BAAC3-09BF-4F28-8B01-E4280271AF2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{231BAAC3-09BF-4F28-8B01-E4280271AF2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{231BAAC3-09BF-4F28-8B01-E4280271AF2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{311C7E5A-7EA6-4690-A3CC-CBAE219A51A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{311C7E5A-7EA6-4690-A3CC-CBAE219A51A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{311C7E5A-7EA6-4690-A3CC-CBAE219A51A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{311C7E5A-7EA6-4690-A3CC-CBAE219A51A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EED0673-89DA-406A-AE40-B8AA151CF591}
+	EndGlobalSection
+EndGlobal
